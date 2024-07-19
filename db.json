@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "anil@test",
+      "name": "anil",
+      "password": "123",
+      "id": "1"
+    },
+    {
+      "id": "6c9f",
+      "email": "xcx",
+      "password": "cxc",
+      "name": "cxc"
+    },
+    {
+      "id": "3a8b",
+      "email": "xcx",
+      "password": "cxc",
+      "name": "cxc"
+    },
+    {
+      "id": "ca85",
+      "email": "rehanna@",
+      "password": "1233",
+      "name": "rehanna"
+    }
+  ],
+  "resturants": [
+    {
+      "id": "2",
+      "name": "Dominos",
+      "contact": 33333,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "contact": 44444,
+      "address": "Delgi sector 50"
+    },
+    {
+      "id": "00a1",
+      "name": "Вкусно и точка",
+      "address": 99999,
+      "contact": "вывавапа"
+    }
+  ]
+}
